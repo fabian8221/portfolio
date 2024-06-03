@@ -275,12 +275,46 @@ export const PROJECTS = [
     technologiesStack: ["React", ".NET", "Typescript", "Gitlab", "HTML5", "CSS3", "Material UI", "SQL Server", "Stored PRocedures"],
   },
   {
+    title: "Harris Teeter",
+    description:
+      'Bug Fixing: Identified and resolved various bugs to ensure a smoother and more reliable platform performance.' + 
+      'SQL Optimization: Modified and optimized SQL stored procedures and queries to enhance database efficiency and speed up data processing.'+
+      'Deployment: Successfully deployed new features and updates, ensuring minimal downtime and seamless integration into the existing system.',
+    image: "/projects/harristeeter.png",
+    link: "https://www.harristeeter.com/",
+    technologiesStack: ["React", ".NET", "Typescript", "Gitlab", "Docker", "Microsoft Azure", "Chakra UI", "SQL Server", "Stored Procedures", "SQL Transactions"],
+  },
+  {
     title: "Mensura",
     description:
       'The project successfully enhanced Mensura Clinics ability to manage occupational health risks, improved doctor-patient interactions, and contributed to better health outcomes through targeted risk assessments and personalized care.',
     image: "/projects/mensura.jpg",
     link: "https://www.mensura.be/nl",
-    technologiesStack: ["React", ".NET", "Typescript", "Gitlab", "HTML5", "CSS3", "Chakra UI", "Express JS", "Docker"],
+    technologiesStack: ["React", ".NET", "Typescript", "Gitlab", "HTML5", "CSS3", "Google Cloud", "Chakra UI", "Express JS", "Docker"],
+  },
+  {
+    title: "Plannet",
+    description:
+      'Plannet is your personal travel concierge. We curate, text and book the best itinerary for your next trip.',
+    image: "/projects/plannet.avif",
+    link: "https://travelplaning.netlify.app",
+    technologiesStack: ["Next JS", "Tailwind", "Typescript", "Tailwind", "Chakra UI", "AWS", "Stripe Integration"],
+  },
+  {
+    title: "Citi Group",
+    description:
+      'The project successfully delivered a powerful tool for Citi Group clients, enhancing their investment and pension planning capabilities. This empowered them to make informed financial decisions and secure their financial future.',
+    image: "/projects/citi-group.avif",
+    link: "https://www.citigroup.com/global",
+    technologiesStack: ["React", "Node JS", "Typescript", "Gitlab", "Chakra UI", "Express JS", "Docker"],
+  },
+  {
+    title: "Trustteam",
+    description:
+      'The project significantly improved the efficiency and effectiveness of clinical operations in large healthcare facilities across Belgium and the Netherlands, providing them with state-of-the-art software solutions for better patient care and doctor management.',
+    image: "/projects/trustteam.png",
+    link: "https://www.trustteam.be/?langue=nl",
+    technologiesStack: ["React", ".NET", "Typescript", "Javascript", "SQL Server", "Docker"],
   },
 ];
 
