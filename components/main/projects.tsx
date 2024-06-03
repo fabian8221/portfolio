@@ -11,9 +11,9 @@ export const Projects = () => {
         My Projects
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
-        {PROJECTS.map((project, key) => (
+        {PROJECTS.map((project, index) => (
           <ProjectCard
-            key={key}
+            key={`${project.title}+${index}`}
             src={project.image}
             title={project.title}
             description={project.description}
