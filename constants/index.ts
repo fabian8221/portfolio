@@ -92,7 +92,7 @@ export const SOCIALS = [
   {
     name: "Instagram",
     icon: RxInstagramLogo,
-    link: "https://instagram.com",
+    link: "https://www.instagram.com/malexandru.rosu?igsh=d2ExNGE3MGNxZmNs",
   },
   {
     name: "Facebook",
@@ -102,7 +102,7 @@ export const SOCIALS = [
   {
     name: "Twitter",
     icon: RxTwitterLogo,
-    link: "https://twitter.com",
+    link: "https://x.com/TheDarkKnightRM?t=ICYbUi_aqH3bNyoidT8Qkg&s=09",
   },
 ] as const;
 
