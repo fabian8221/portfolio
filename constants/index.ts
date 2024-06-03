@@ -259,27 +259,30 @@ export const OTHER_SKILL = [
 
 export const PROJECTS = [
   {
-    title: "Modern Next.js 14 Portfolio",
+    title: "Swiss Life",
     description:
-      'Embark on a journey through my professional evolution with the "Modern Next.js Portfolio" - a dynamic showcase of my skills, experiences, and passion for web development. Crafted with precision and powered by Next.js, this portfolio is more than just a static display; it\'s an immersive experience that reflects the cutting edge of modern web technologies.',
-    image: "/projects/project-1.png",
-    link: "https://example.com",
+      'The project successfully provided SwissLife clients with a powerful tool for investment and pension planning, enhancing their ability to make informed financial decisions and secure their future.',
+    image: "/projects/swiss-life.jpg",
+    link: "https://www.swisslife.com/en/home.html",
+    technologiesStack: ["React", "Node JS", "Typescript", "Gitlab", "HTML5", "CSS3", "Chakra UI", "Express JS", "Passport JS"],
   },
   {
-    title: "Interactive Cards Portfolio",
+    title: "Wakefern",
     description:
-      'Step into the extraordinary world of my professional journey through the "Interactive Cards Portfolio" - an innovative and visually captivating platform that redefines the traditional portfolio experience. Ditching the conventional static layout, this portfolio leverages interactive cards to showcase my skills, projects, and personality in an engaging and dynamic manner.',
-    image: "/projects/project-2.png",
-    link: "https://example.com",
+      'We significantly improved the performance and usability of Wakeferns e-commerce platform, contributing to a better user experience and more efficient backend processes, ultimately supporting the companys multi-billion dollar operations.',
+    image: "/projects/wakefern.jpg",
+    link: "https://www2.wakefern.com/",
+    technologiesStack: ["React", ".NET", "Typescript", "Gitlab", "HTML5", "CSS3", "Material UI", "SQL Server", "Stored PRocedures"],
   },
   {
-    title: "Space Themed Website",
+    title: "Mensura",
     description:
-      'Embark on an interstellar journey with my "Space Themed Website", a mesmerizing space-themed website that invites you to explore the cosmic wonders beyond our world. Immerse yourself in an awe-inspiring digital experience that blends cutting-edge design with the mysteries of the universe.',
-    image: "/projects/project-3.png",
-    link: "https://example.com",
+      'The project successfully enhanced Mensura Clinics ability to manage occupational health risks, improved doctor-patient interactions, and contributed to better health outcomes through targeted risk assessments and personalized care.',
+    image: "/projects/mensura.jpg",
+    link: "https://www.mensura.be/nl",
+    technologiesStack: ["React", ".NET", "Typescript", "Gitlab", "HTML5", "CSS3", "Chakra UI", "Express JS", "Docker"],
   },
-] as const;
+];
 
 export const FOOTER_DATA = [
   {
@@ -293,12 +296,7 @@ export const FOOTER_DATA = [
       {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com",
-      },
-      {
-        name: "Discord",
-        icon: RxDiscordLogo,
-        link: "https://discord.com",
+        link: "https://github.com/RosuMihaiAlexandru",
       },
     ],
   },
@@ -308,17 +306,17 @@ export const FOOTER_DATA = [
       {
         name: "Instagram",
         icon: RxInstagramLogo,
-        link: "https://instagram.com",
+        link: "https://www.instagram.com/malexandru.rosu?igsh=d2ExNGE3MGNxZmNs",
       },
       {
         name: "Twitter",
         icon: RxTwitterLogo,
-        link: "https://twitter.com",
+        link: "https://x.com/TheDarkKnightRM?t=ICYbUi_aqH3bNyoidT8Qkg&s=09",
       },
       {
         name: "Linkedin",
         icon: RxLinkedinLogo,
-        link: "https://linkedin.com",
+        link: "https://www.linkedin.com/in/mihai-alexandru-rosu-69677295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
       },
     ],
   },
@@ -360,5 +358,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/sanidhyy/space-portfolio",
+  sourceCode: "https://github.com/RosuMihaiAlexandru/my-portfolio-next",
 };

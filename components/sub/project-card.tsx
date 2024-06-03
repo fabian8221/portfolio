@@ -6,6 +6,7 @@ type ProjectCardProps = {
   title: string;
   description: string;
   link: string;
+  technologiesStack: string[]
 };
 
 export const ProjectCard = ({
@@ -13,6 +14,7 @@ export const ProjectCard = ({
   title,
   description,
   link,
+  technologiesStack
 }: ProjectCardProps) => {
   return (
     <Link
@@ -32,6 +34,11 @@ export const ProjectCard = ({
       <div className="relative p-4">
         <h1 className="text-2xl font-semibold text-white">{title}</h1>
         <p className="mt-2 text-gray-300">{description}</p>
+        <p className="mt-2" style={{ color: "wheat" }}>Technologies Stack:</p>
+        <div className="flex flex-wrap gap-[6px]">
+          {technologiesStack.map(txt => <p className="mt-2 rounded-full p-[2px_10px] bg-gray-800 text-white text-[12px]">{txt} </p>)}
+        </div>
+
       </div>
     </Link>
   );

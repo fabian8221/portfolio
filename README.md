@@ -4,13 +4,13 @@
 
 ![Modern Space Theme Portfolio using Next.js 14 and Three.js](/.github/images/img_main.png "Modern Space Theme Portfolio using Next.js 14 and Three.js")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/pulls "GitHub pull requests")
+[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/RosuMihaiAlexandru "Ask Me Anything!")
+[![GitHub license](https://flat.badgen.net/github/license/RosuMihaiAlexandru/my-portfolio-next?icon=github&color=black&scale=1.01)](https://github.com/RosuMihaiAlexandru/my-portfolio-next/blob/main/LICENSE "GitHub license")
+[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/RosuMihaiAlexandru/my-portfolio-next/commits/main "Maintenance")
+[![GitHub branches](https://flat.badgen.net/github/branches/RosuMihaiAlexandru/my-portfolio-next?icon=github&color=black&scale=1.01)](https://github.com/RosuMihaiAlexandru/my-portfolio-next/branches "GitHub branches")
+[![Github commits](https://flat.badgen.net/github/commits/RosuMihaiAlexandru/my-portfolio-next?icon=github&color=black&scale=1.01)](https://github.com/RosuMihaiAlexandru/my-portfolio-next/commits "Github commits")
+[![GitHub issues](https://flat.badgen.net/github/issues/RosuMihaiAlexandru/my-portfolio-next?icon=github&color=black&scale=1.01)](https://github.com/RosuMihaiAlexandru/my-portfolio-next/issues "GitHub issues")
+[![GitHub pull requests](https://flat.badgen.net/github/prs/RosuMihaiAlexandru/my-portfolio-next?icon=github&color=black&scale=1.01)](https://github.com/RosuMihaiAlexandru/my-portfolio-next/pulls "GitHub pull requests")
 [![Netlify Status](https://api.netlify.com/api/v1/badges/451ed0e0-3541-474e-896a-4987e30a7722/deploy-status)](https://spaceportfolio.netlify.app/ "Netlify Status")
 
 <!-- Table of Contents -->
@@ -44,7 +44,7 @@
 Here is the folder structure of this app.
 
 ```bash
-space-portfolio/
+my-portfolio-next/
   |- app/
     |-- favicon.ico
     |-- globals.css
@@ -155,8 +155,8 @@ Useful resources and dependencies that are used in Space Portfolio.
 
 ## :rocket: Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fspace-portfolio "Tweet")
+[![GitHub followers](https://img.shields.io/github/followers/RosuMihaiAlexandru?style=social&label=Follow&maxAge=2592000)](https://github.com/RosuMihaiAlexandru "Follow Me")
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2FRosuMihaiAlexandru%2Fmy-portfolio-next "Tweet")
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCNAz_hUVBG2ZUN8TVm0bmYw)](https://www.youtube.com/@OPGAMER. "Subscribe my YouTube Channel")
 
 ## :books: Learn More
@@ -180,11 +180,11 @@ You can also give this repository a star to show more people and they can use th
 
 ## :star2: Star History
 
-<a href="https://star-history.com/#sanidhyy/space-portfolio&Timeline">
+<a href="https://star-history.com/#RosuMihaiAlexandru/my-portfolio-next&Timeline">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/space-portfolio&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/space-portfolio&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/space-portfolio&type=Timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=RosuMihaiAlexandru/my-portfolio-next&type=Timeline&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=RosuMihaiAlexandru/my-portfolio-next&type=Timeline" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=RosuMihaiAlexandru/my-portfolio-next&type=Timeline" />
 </picture>
 </a>
 
