@@ -97,7 +97,7 @@ export const SOCIALS = [
   {
     name: "Facebook",
     icon: FaFacebook,
-    link: "https://facebook.com",
+    link: "https://www.facebook.com/share/uzNWunMhKLUPbRXJ/",
   },
   {
     name: "Twitter",
