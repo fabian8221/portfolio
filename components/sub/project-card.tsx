@@ -36,7 +36,7 @@ export const ProjectCard = ({
         <p className="mt-2 text-gray-300">{description}</p>
         <p className="mt-2" style={{ color: "wheat" }}>Technologies Stack:</p>
         <div className="flex flex-wrap gap-[6px]">
-          {technologiesStack.map(txt => <p className="mt-2 rounded-full p-[2px_10px] bg-gray-800 text-white text-[12px]">{txt} </p>)}
+          {technologiesStack.map((txt, index) => <p key={index} className="mt-2 rounded-full p-[2px_10px] bg-gray-800 text-white text-[12px]">{txt} </p>)}
         </div>
 
       </div>
