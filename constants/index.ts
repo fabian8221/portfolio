@@ -90,19 +90,14 @@ export const SKILL_DATA = [
 
 export const SOCIALS = [
   {
-    name: "Instagram",
-    icon: RxInstagramLogo,
-    link: "https://www.instagram.com/malexandru.rosu?igsh=d2ExNGE3MGNxZmNs",
+    name: "LinkedIn",
+    icon: RxLinkedinLogo,
+    link: "https://www.linkedin.com/in/fabian-paulino-94314b87",
   },
   {
-    name: "Facebook",
-    icon: FaFacebook,
-    link: "https://www.facebook.com/share/uzNWunMhKLUPbRXJ/",
-  },
-  {
-    name: "Twitter",
-    icon: RxTwitterLogo,
-    link: "https://x.com/TheDarkKnightRM?t=ICYbUi_aqH3bNyoidT8Qkg&s=09",
+    name: "Github",
+    icon: RxGithubLogo,
+    link: "https://github.com/fabian8221",
   },
 ] as const;
 
@@ -330,7 +325,7 @@ export const FOOTER_DATA = [
       {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com/RosuMihaiAlexandru",
+        link: "https://github.com/fabian8221",
       },
     ],
   },
@@ -338,19 +333,14 @@ export const FOOTER_DATA = [
     title: "Social Media",
     data: [
       {
-        name: "Instagram",
-        icon: RxInstagramLogo,
-        link: "https://www.instagram.com/malexandru.rosu?igsh=d2ExNGE3MGNxZmNs",
-      },
-      {
-        name: "Twitter",
-        icon: RxTwitterLogo,
-        link: "https://x.com/TheDarkKnightRM?t=ICYbUi_aqH3bNyoidT8Qkg&s=09",
+        name: "Github",
+        icon: RxGithubLogo,
+        link: "https://github.com/fabian8221",
       },
       {
         name: "Linkedin",
         icon: RxLinkedinLogo,
-        link: "https://www.linkedin.com/in/mihai-alexandru-rosu-69677295?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        link: "https://www.linkedin.com/in/fabian-paulino-94314b87",
       },
     ],
   },
@@ -373,5 +363,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/RosuMihaiAlexandru/my-portfolio-next",
+  sourceCode: "https://github.com/fabian8221/portfolio",
 };
